@@ -1,0 +1,18 @@
+{
+  "name": "baic_node_project_template",
+  "version": "1.0.0",
+  "description": "A basic starter project for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnab Golder",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http-status-codes": "^2.3.0",
+    "winston": "^3.11.0"
+  }
+}
